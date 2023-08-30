@@ -1,0 +1,11 @@
+@use "../utilities/variables" as *;
+
+body {
+  font-family: $body-font;
+  min-height: 100vh;
+  font-size: $fontSize;
+  background-image: linear-gradient(
+    to bottom,
+    $gradientColorOne,
+    $gradientColortwo);
+}
