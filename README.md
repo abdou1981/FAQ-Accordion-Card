@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/abdou1981/FAQ-Accordion-Card)
 - Live Site URL: [Add solution URL here](https://abdou1981.github.io/FAQ-Accordion-Card/)
 
 ## My process
